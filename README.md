@@ -18,6 +18,7 @@
 - **13 products and 15+ apps** shipped on iOS, Android and web since 2022, including offline-first sales platforms, multi-tenant SaaS, ERP, fintech and AI tools.
 - I integrate LLMs, RAG and agents into real products: enterprise data and policy search, AI document extraction, voice ordering and multi-agent release tracking.
 - I work with AI coding agents inside rules: repos carry a `CLAUDE.md`, ready-made prompts and a check script, so the agent builds and the checks verify.
+- All my coding runs on my dotfiles repo, [`devbox-config`](https://github.com/AlthafMjeelani/devbox-config): shell, terminal, editor, git and one shared setup of 122 skills for seven AI coding agents.
 - Open source: extended the [`print_bluetooth_thermal`](https://github.com/AlthafMjeelani/print_bluetooth_thermal) Flutter plugin with richer device metadata and printer detection.
 
 ## What I build with AI
@@ -39,6 +40,7 @@
 
 ## Featured
 
+- **[devbox-config](https://github.com/AlthafMjeelani/devbox-config)**: my dev machine as code, with one setup for seven AI coding agents (Claude Code, Codex, OpenCode, Kimi Code, Amp, CommandCode, Antigravity) and hooks that block commits on main.
 - **[Portfolio](https://github.com/AlthafMjeelani/althaf-portfolio)**: my AI-era portfolio, a single page with a runnable agent pipeline, a multi-agent architecture view and animated project windows. [Live site](https://althafmjeelani.github.io/althaf-portfolio/).
 - **[print_bluetooth_thermal](https://github.com/AlthafMjeelani/print_bluetooth_thermal)**: contribution to a Flutter Bluetooth thermal printing plugin.
 - **[Go-Authentication](https://github.com/AlthafMjeelani/Go-Authentication)**: authentication in Go.
